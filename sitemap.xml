@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://github.com/fralfaro/mlcourses_gh_template/</loc>
+         <lastmod>2022-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/mlcourses_gh_template/__init__/</loc>
+         <lastmod>2022-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/mlcourses_gh_template/lectures/colab/</loc>
+         <lastmod>2022-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/mlcourses_gh_template/lectures/jupyter/</loc>
+         <lastmod>2022-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://github.com/fralfaro/mlcourses_gh_template/lectures/python/</loc>
+         <lastmod>2022-07-11</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+</urlset>
